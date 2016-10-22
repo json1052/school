@@ -1,14 +1,15 @@
 # school
 
-안녕하세요
-
+## 구글드라이브 엑셀파일 공유
 [student](https://docs.google.com/spreadsheets/d/1nsHZYwQURZJ2f1oiSHJzuH5iQiTHXFQzgOYeVRZuwLk/edit?usp=sharing)
 
+## 그림 링크하는 방법
 ![twice](https://image-proxy.namuwikiusercontent.com/r/https%3A%2F%2Ftwice9.files.wordpress.com%2F2015%2F12%2F77374_94474_2456.jpg)
+
+## 동영상 링크하는 방법
 [baseball](https://youtu.be/-b1ie5sj4j8)
 
-
-
+## 그림 클릭하면 동영상 링크되는 방법
 [![apple](http://cfile1.uf.tistory.com/image/272DAC4057C10E3B0574D5)](https://youtu.be/-b1ie5sj4j8)
 
 
@@ -33,7 +34,7 @@ Continue to layouts > Publish page 까지 해줘야 한다.
 그림주소 얻어낼때 링크주소복사가 아니라 이미지주소복사를 해야 한다.
 
 markdown 문법 공부.
-http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/
+http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/
 mtinet.github.io/tech
 
 
