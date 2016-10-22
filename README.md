@@ -6,6 +6,12 @@
 
 
 
+편집후 웹페이지로 변경하는 방법
+
+settings > Update site > Launch automatic page generator > Load README.md > 
+Continue to layouts > Publish page 까지 해줘야 한다.
+
+
 markdown 문법 공부.
 http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/
 mtinet.github.io/tech
