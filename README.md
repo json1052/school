@@ -25,6 +25,7 @@
 settings > Update site > Launch automatic page generator > Load README.md > 
 Continue to layouts > Publish page 까지 해줘야 한다.
 
+그림주소 얻어낼때 링크주소복사가 아니라 이미지주소복사를 해야 한다.
 
 markdown 문법 공부.
 http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/
