@@ -3,7 +3,7 @@
 안녕하세요
 
 ![twice](https://image-proxy.namuwikiusercontent.com/r/https%3A%2F%2Ftwice9.files.wordpress.com%2F2015%2F12%2F77374_94474_2456.jpg)
-![baseball](https://www.youtube.com/watch?v=-b1ie5sj4j8&feature=youtu.be)
+[baseball](https://youtu.be/-b1ie5sj4j8)
 
 
 편집후 웹페이지로 변경하는 방법
