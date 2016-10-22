@@ -12,7 +12,12 @@
 ## 그림 클릭하면 동영상 링크되는 방법
 [![apple](http://cfile1.uf.tistory.com/image/272DAC4057C10E3B0574D5)](https://youtu.be/-b1ie5sj4j8)
 
-
+## markdown 기본문법 정리
+-'#'을 하나 쓰면 HTML의 <h1> 태그를, '#'을 두개 쓰면 <h2>태그를 의미한다. 6개의 '#'까지 쓸 수 있다.
+* dd
++ dd
+1.dd
+1.dd
 
 
 
@@ -38,9 +43,8 @@ http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-korean
 mtinet.github.io/tech
 
 
-제목
-# 텍스트
-#을 하나 쓰면 HTML의 <h1> 태그를, #을 두개 쓰면 <h2>태그를 의미한다. 즉, #은 하나에서 여섯개까지 쓸 수 있고, #이 늘어날때마다 제목의 수준은 내려간다.(보통 글씨 크기가 작아진다.)
+
+
 번호 없는 리스트
 -/+/* 텍스트
 번호 있는 리스트
