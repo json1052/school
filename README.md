@@ -1,5 +1,11 @@
 # school
 
+안녕하세요
+
+![twice](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj0_dG26u3PAhVDjpQKHYsdBg4QjRwIBw&url=https%3A%2F%2Fnamu.wiki%2Fw%2FTWICE%2FCF&psig=AFQjCNHw5sGPLfUJ0bV8kxeAT7OP4gDrlw&ust=1477205758217428)
+
+
+
 markdown 문법 공부.
 http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/
 mtinet.github.io/tech
